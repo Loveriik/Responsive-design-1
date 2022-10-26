@@ -363,7 +363,7 @@
     }
 }
 
-@media screen and (max-width:600px) {
+@media screen and (max-width:720px) {
 
     .page-container {
         grid-template-columns: 40px 1fr 40px;
