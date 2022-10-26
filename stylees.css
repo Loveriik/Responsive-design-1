@@ -362,3 +362,25 @@
         padding-top:20px;
     }
 }
+
+@media screen and (max-width:600px) {
+    .gallery-section3 {
+        grid-template-columns: 1fr;
+    }
+
+    .footer-grid-container {
+        grid-template-columns:1fr;
+    }
+
+    .footer-form {
+        flex-direction: column;
+    }
+
+    .padding-final {
+        padding-top:20px;
+    }
+
+    .h6-padding-final {
+        padding-top:20px;
+    }
+}
